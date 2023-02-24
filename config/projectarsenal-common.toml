@@ -1,0 +1,7 @@
+
+[common]
+
+	[common.experimental]
+		#If true, forces guns that have the dyeing behaviour turned off by default to be dye-able again. This option could be useful to modpack and/or resource pack developers. False by default.
+		forceGunDyeAbility = false
+
